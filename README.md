@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JinhoKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Naekang&fontSize=70&animation=twinkling)
 
 <p align="center">🇰🇷</p>
 
