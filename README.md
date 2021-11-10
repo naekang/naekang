@@ -33,6 +33,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=black"/></a>&nbsp
 </p>
 
+<h3 align="center">🛠 Tools & Platforms 🛠</h3>
+
+
+<p align="center"> Tools and Platforms that I've used at least once </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black"/></a>&nbsp 
+</p>
+
 <br><br>
 <h3 align="center"> 🍒 Me 🍒 </h3>
 <p align="center">
