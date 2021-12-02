@@ -50,17 +50,17 @@ Here are some ideas to get you started:
   <a href="https://naekang.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
   <a href="mailto:rlawlsgh6306@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
+
+
 <br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naekang&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naekang&layout=compact)](https://github.com/naekang/github-readme-stats)
 
 
-<p align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naekang&show_icons=true&theme=dark)</p>
-
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naekang&layout=compact)](https://github.com/naekang/github-readme-stats)</p>
-
-
-<p align="center">[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgh6306)](https://solved.ac/rlawlsgh6306)</p>
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgh6306)](https://solved.ac/rlawlsgh6306)
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaekang%2Falgorithm&count_bg=%23DC6EE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
