@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgh6306)](https://solved.ac/rlawlsgh6306)
 
+<a href="https://opgc.me/#/users/naekang" target="_blank"><img src="https://api.opgc.me/githubs/users/naekang/tag/?theme=basic" /></a>
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=naekang)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnaekang%2Falgorithm&count_bg=%23DC6EE3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
