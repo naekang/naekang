@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naekang&layout=compact)](https://github.com/naekang/github-readme-stats)
 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawlsgh6306)](https://solved.ac/rlawlsgh6306/)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naekang)](https://solved.ac/naekang/)
 
 <a href="https://opgc.me/#/users/naekang" target="_blank"><img src="https://api.opgc.me/githubs/users/naekang/tag/?theme=basic" /></a>
 
