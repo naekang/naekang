@@ -18,48 +18,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=JinhoKim&fontSize=50&animation=fadeIn&fontColor=ffffff)
 
-<p align="center">🇰🇷</p>
-
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-
-<p align="center"> Techs that I've used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
-</p>
-
-<h3 align="center">🛠 Tools & Platforms 🛠</h3>
-
-
-<p align="center"> Tools and Platforms that I've used at least once </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
-</p>
-
-<br>
-<h3 align="center">🍒 Me 🍒</h3>
-<p align="center">
-  <a href="https://naekang.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@woo0_hooo"/></a>&nbsp
-  <a href="mailto:rlawlsgh6306@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
-</p>
-
-
-<br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naekang&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naekang&layout=compact)](https://github.com/naekang/github-readme-stats)
-
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naekang)](https://solved.ac/naekang/)
 
 <a href="https://opgc.me/#/users/naekang" target="_blank"><img src="https://api.opgc.me/githubs/users/naekang/tag/?theme=basic" /></a>
 
